@@ -21,6 +21,7 @@
         "dbaeumer.vscode-eslint"
       ],
       "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
         "chat.agent.enabled": true,
         "chat.mcp.enabled": true
       }
