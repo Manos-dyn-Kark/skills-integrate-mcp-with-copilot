@@ -28,6 +28,19 @@ header h1 {
   margin-bottom: 10px;
 }
 
+.header-controls {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.header-controls button {
+  background-color: white;
+  color: #1a237e;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
